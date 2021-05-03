@@ -23,7 +23,7 @@
   * Heroku
   
   ## Usage:
-  ![Gif Demo](Develop/public/assets/Images/Note.gif)
+  ![Gif Demo](/public/assets/Images/Note.gif)
   
   
   ## Questions:
