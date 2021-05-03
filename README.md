@@ -5,12 +5,11 @@
   * [Built With](#built%20with)
   * [Tools Used](#tools%20used)
   * [Usage](#usage)
-  * [Tests](#tests)
   * [Questions](#questions)
 
 
   ## Description: 
-  Express-Your-Notes is a note taking web application that allows a user to create, edit, and delete notes.
+  Express-Your-Notes is a note taking web application that allows a user to create, edit, and delete notes. Deployed on [Heroku](https://gentle-journey-45170.herokuapp.com/).
 
   ## Built With
   * JavaScript
